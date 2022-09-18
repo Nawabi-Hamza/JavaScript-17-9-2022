@@ -3,5 +3,9 @@
     
     },
     "workbench.preferredLightColorTheme": "Kimbie Dark",
-    "workbench.colorTheme": "Kimbie Dark"
+    "workbench.colorTheme": "Monokai",
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.preferredHighContrastColorTheme": "Quiet Light",
+    "workbench.preferredHighContrastLightColorTheme": "Kimbie Dark",
+    "workbench.preferredDarkColorTheme": "Monokai"
 }

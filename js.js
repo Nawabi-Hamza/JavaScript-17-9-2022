@@ -89,3 +89,6 @@ const text = `[
     i++
     indata.innerHTML=onj;
   }
+
+
+  console.log("--------------------------------------")
